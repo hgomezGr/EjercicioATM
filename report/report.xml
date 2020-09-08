@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.384">
+<testcase classname="suma" name="suma de dos numeros" time="0.058">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given estando en la aplicacion de la calculadora............................undefined
+When cuando presiono un numero..............................................skipped
+And presiono la tecla de suma...............................................skipped
+And presiono otro numero....................................................skipped
+And presiono la tecla igual.................................................skipped
+Then arroja el resultado de la suma.........................................skipped
+]]></failure>
+</testcase>
+</testsuite>
